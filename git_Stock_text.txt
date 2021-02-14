@@ -7,7 +7,10 @@ git config --global user.email "waka_taka@wakataka.mixh.jp"
 git config --global user.name "waka_prings"
 
 git add .
-git commit -m git commit -m "ansible test 2021-02-13 009"
+git commit -m "golang test 2021-02-14 2359"
 git branch -M main
-git remote add origin https://github.com/wakaprings/TypeScriptTraining.git
+git remote add origin https://github.com/wakaprings/golangStudy.git
 git push -u origin main
+
+
+# http://www.openspc2.org/reibun/D3.js/
